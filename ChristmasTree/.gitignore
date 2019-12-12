@@ -23,3 +23,6 @@ _autosave-*
 *.xml
 *.csv
 
+#Drill and GBR Files
+*.drl
+*.gbr
